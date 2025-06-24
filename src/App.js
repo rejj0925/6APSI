@@ -10,3 +10,8 @@ function App() {
         <Route path="/" element={<LoginPage />}/>
         <Route path="/LandingPage" element={<LandingPage />}/>
     </Routes>
+
+ );
+}
+
+export default App;
